@@ -101,7 +101,7 @@ O MySQL foi escolhido como banco de dados por sua praticidade e integração no 
 ## ⚡ Como Rodar o Projeto
 1️⃣ **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/gerenciador-de-tarefa.git
    ```
 2️⃣ **Acesse a pasta do projeto**
    ```bash
